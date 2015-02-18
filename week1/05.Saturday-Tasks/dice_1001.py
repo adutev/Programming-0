@@ -12,12 +12,12 @@ while (ivan != 0) and (maria != 0):
     if ivan > 0:
         ivan -= current_sum_ivan
     else:
-        ivan += current_sum_ivan    
+        ivan += current_sum_ivan
     print("Dices sum of Ivan is: ", current_sum_ivan)
     print ("Ivan is : ", ivan)
     print ("-------------")
+    
     current_sum_ivan = 0
-        
     current_sum_maria = 0
     print ("Maria is : ", maria)
     for i in range(0, 5):
