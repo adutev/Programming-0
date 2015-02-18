@@ -1,0 +1,8 @@
+one_digit_list = [1]
+tree_digits_list = [1, 2, 3]
+emplty_list = []
+boolean_list = [True, 1, "True"]
+python_django_list = ["Python", "Django"]
+my_names = ["Anton", "Iliev", "Dutev"]
+my_friends = ["Didka", "Pesho", "Minka", "Gosho", "Mimi"]
+programming_lanugages = ["C", "C++", "C#", "Python", "Ruby", "Javascript", "Java", "PHP", "Perl"]
