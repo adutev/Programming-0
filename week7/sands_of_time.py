@@ -13,5 +13,9 @@ def print_sands_clock(n):
 				result += '.'
 		result += '\n'
 	return result
-
-print(print_sands_clock(101))
+n = input("Enter odd number: ")
+n = int(n);
+if n%2 == 0:
+	print("Please enter an odd number!")
+else:
+	print(print_sands_clock(n))
